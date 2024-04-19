@@ -1,0 +1,176 @@
+2024-04-19 08:45:33 - ReferenceError: res2 is not defined
+    at C:\Users\Corsaire\OneDrive\Bureau\errorHandler\app.js:23:5
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Corsaire\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Corsaire\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Corsaire\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Corsaire\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Corsaire\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\Corsaire\OneDrive\Bureau\errorHandler\app.js:19:5
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+2024-04-19 08:49:01 - ReferenceError: res2 is not defined
+    at C:\Users\Corsaire\OneDrive\Bureau\errorHandler\app.js:13:5
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Corsaire\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Corsaire\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Corsaire\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Corsaire\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Corsaire\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\Corsaire\OneDrive\Bureau\errorHandler\app.js:9:5
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+2024-04-19 08:52:19 - ReferenceError: res2 is not defined
+    at C:\Users\Corsaire\OneDrive\Bureau\errorHandler\app.js:13:5
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Corsaire\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Corsaire\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Corsaire\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Corsaire\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Corsaire\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\Corsaire\OneDrive\Bureau\errorHandler\app.js:9:5
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+2024-04-19 08:55:24 - ReferenceError: res2 is not defined
+    at C:\Users\Corsaire\OneDrive\Bureau\errorHandler\app.js:13:5
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Corsaire\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Corsaire\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Corsaire\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Corsaire\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Corsaire\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\Corsaire\OneDrive\Bureau\errorHandler\app.js:9:5
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+2024-04-19 09:00:43 - ReferenceError: res2 is not defined
+    at C:\Users\Corsaire\OneDrive\Bureau\errorHandler\app.js:13:5
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Corsaire\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Corsaire\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Corsaire\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Corsaire\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Corsaire\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\Corsaire\OneDrive\Bureau\errorHandler\app.js:9:5
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+2024-04-19 09:01:28 - ReferenceError: res2 is not defined
+    at C:\Users\Corsaire\OneDrive\Bureau\errorHandler\app.js:13:5
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Corsaire\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Corsaire\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Corsaire\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Corsaire\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Corsaire\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\Corsaire\OneDrive\Bureau\errorHandler\app.js:9:5
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+2024-04-19 09:02:02 - ReferenceError: res2 is not defined
+    at C:\Users\Corsaire\OneDrive\Bureau\errorHandler\app.js:13:5
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Corsaire\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Corsaire\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Corsaire\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Corsaire\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Corsaire\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\Corsaire\OneDrive\Bureau\errorHandler\app.js:9:5
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+2024-04-19 09:09:18 - ReferenceError: res2 is not defined
+    at C:\Users\Corsaire\OneDrive\Bureau\errorHandler\app.js:13:5
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Corsaire\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Corsaire\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Corsaire\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Corsaire\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Corsaire\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\Corsaire\OneDrive\Bureau\errorHandler\app.js:9:5
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+2024-04-19 09:12:20 - ReferenceError: res2 is not defined
+    at C:\Users\Corsaire\OneDrive\Bureau\errorHandler\app.js:13:5
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Corsaire\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Corsaire\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Corsaire\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Corsaire\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Corsaire\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\Corsaire\OneDrive\Bureau\errorHandler\app.js:9:5
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+Fri Apr 19 2024 11:16:18 GMT+0200 (heure d’été d’Europe centrale) - ReferenceError: res2 is not defined
+    at C:\Users\Corsaire\OneDrive\Bureau\errorHandler\app.js:13:5
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Corsaire\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Corsaire\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Corsaire\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Corsaire\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Corsaire\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\Corsaire\OneDrive\Bureau\errorHandler\app.js:9:5
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+2024-04-19 09:17:41 - ReferenceError: res2 is not defined
+    at C:\Users\Corsaire\OneDrive\Bureau\errorHandler\app.js:13:5
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Corsaire\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Corsaire\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Corsaire\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Corsaire\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Corsaire\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\Corsaire\OneDrive\Bureau\errorHandler\app.js:9:5
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+2024-04-19 09:19:44 - ReferenceError: res2 is not defined
+    at C:\Users\Corsaire\OneDrive\Bureau\errorHandler\app.js:13:5
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Corsaire\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Corsaire\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Corsaire\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Corsaire\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Corsaire\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\Corsaire\OneDrive\Bureau\errorHandler\app.js:9:5
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+2024-04-19  - ReferenceError: res2 is not defined
+    at C:\Users\Corsaire\OneDrive\Bureau\errorHandler\app.js:13:5
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Corsaire\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Corsaire\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Corsaire\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Corsaire\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Corsaire\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\Corsaire\OneDrive\Bureau\errorHandler\app.js:9:5
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+Fri Apr 19 2024 11:25:42 GMT+0200 (heure d’été d’Europe centrale) - ReferenceError: res2 is not defined
+    at C:\Users\Corsaire\OneDrive\Bureau\errorHandler\app.js:13:5
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Corsaire\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Corsaire\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Corsaire\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Corsaire\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Corsaire\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\Corsaire\OneDrive\Bureau\errorHandler\app.js:9:5
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+2024-04-19  - ReferenceError: res2 is not defined
+    at C:\Users\Corsaire\OneDrive\Bureau\errorHandler\app.js:13:5
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Corsaire\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Corsaire\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Corsaire\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Corsaire\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Corsaire\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\Corsaire\OneDrive\Bureau\errorHandler\app.js:9:5
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+2024-04-19 11:27:39 - ReferenceError: res2 is not defined
+    at C:\Users\Corsaire\OneDrive\Bureau\errorHandler\app.js:13:5
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Corsaire\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Corsaire\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Corsaire\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Corsaire\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Corsaire\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\Corsaire\OneDrive\Bureau\errorHandler\app.js:9:5
+    at Layer.handle [as handle_request] (C:\Users\Corsaire\node_modules\express\lib\router\layer.js:95:5)
